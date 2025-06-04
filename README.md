@@ -1,27 +1,51 @@
-<h2 align="left">👋 Hey there! I'm Eishita</h2>
+<h1 align="center">Hi there, I'm Eishita 👋</h1>
+
+<p align="center">
+  🎓 Computer Science Graduate &nbsp;|&nbsp; 💻 Aspiring Data Engineer &nbsp;|&nbsp; 📍 Bangladesh
+</p>
+
+---
+
+<h2 align="left">👩‍💻 About Me</h2>
 
 <p align="left">
-I'm a <strong>Computer Science graduate</strong> from <em>International Islamic University Chittagong </em> with a deep interest in designing scalable data systems and building efficient data pipelines. My journey in tech started with writing basic C programs, and now I'm diving into the world of <strong>Data Engineering</strong> — working with real-world datasets, transforming data for insights, and automating workflows.
+I'm <strong>Eishita</strong>, a Computer Science graduate from <em>International Islamic University Chittagong</em>, driven by curiosity and a love for working with data. I enjoy building data pipelines, transforming messy datasets, and automating workflows to uncover actionable insights. 
 </p>
 
 <p align="left">
-Right now, I'm focused on:
-<ul>
-  <li>🔧 Developing ETL pipelines using <strong>Python</strong> and <strong>Pandas</strong></li>
-  <li>🗄️ Querying and managing relational databases with <strong>SQL</strong> and <strong>MySQL/PostgreSQL</strong></li>
+After exploring programming through C and Python, I found my passion in the field of <strong>Data Engineering</strong> — the bridge between raw data and decision-making. My goal is to become a data engineer who can build scalable, reliable, and efficient data systems.
+</p>
+
+---
+
+<h2 align="left">🚀 What I'm Currently Working On</h2>
+
+<ul align="left">
+  <li>🔧 Building mini ETL projects using <strong>Python (pandas, csv, json)</strong></li>
+  <li>🗄️ Practicing SQL and managing relational databases like <strong>MySQL</strong></li>
+  <li>📊 Learning <strong>Apache Airflow</strong> for workflow orchestration</li>
   <li>☁️ Exploring cloud tools like <strong>Google BigQuery</strong> and <strong>AWS S3</strong></li>
-  <li>📊 Learning orchestration with <strong>Apache Airflow</strong> and handling batch data</li>
 </ul>
-</p>
+
+---
+
+<h2 align="left">🎯 Goals for 2025</h2>
+
+<ul align="left">
+  <li>📌 Land my first role as a Junior Data Engineer</li>
+  <li>📈 Contribute to open-source data projects</li>
+  <li>📚 Earn certifications in cloud (Google/AWS) & data systems</li>
+  <li>🧠 Continue leveling up Python, SQL, and distributed systems knowledge</li>
+</ul>
+
+---
+
+<h2 align="left">🎲 Fun Fact</h2>
 
 <p align="left">
-This GitHub repository is part of my active learning process — where I document mini projects, experiments, and exercises that help me grow as a future Data Engineer. I believe in learning by doing and constantly improving through iteration and feedback.
+✨ I debug better after midnight, powered by coffee, curiosity, and the occasional tech meme ☕💻
 </p>
 
-<p align="left">
-💬 <strong>Let’s connect!</strong> I’m always open to conversations around data, backend systems, and anything tech. Feel free to explore my projects, suggest improvements, or just say hi!
-</p>
+---
 
-<p align="left">
-✨ <strong>Fun fact:</strong> I write better code after 10 PM, powered by coffee and by myself ☕💡
-</p>
+<p
