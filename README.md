@@ -1,52 +1,27 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h2 align="left">👋 Hey there! I'm Eishita</h2>
 
-###
-
-<p align="left">My name is EishitaSultana Akther and I'm a Computer Science Engineer, from Chattagram, Bangladesh </p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<h2>👋 About Me</h2>
-
-<p>
-Hi! I'm <strong>Eishita</strong>, a Computer Science graduate from <em>International Islamic University Chattogram</em>, passionate about building data pipelines and working with large-scale datasets. I'm currently focused on learning data engineering tools and working on hands-on projects using <strong>Python</strong>, <strong>SQL</strong>, and cloud platforms.
+<p align="left">
+I'm a <strong>Computer Science graduate</strong> from <em>International Islamic University Chittagong </em> with a deep interest in designing scalable data systems and building efficient data pipelines. My journey in tech started with writing basic C programs, and now I'm diving into the world of <strong>Data Engineering</strong> — working with real-world datasets, transforming data for insights, and automating workflows.
 </p>
 
-<p>
-This repository is part of my journey to become a professional <strong>Data Engineer</strong>. I'm building small but practical projects to improve my skills in ETL development, data processing, and workflow automation.
+<p align="left">
+Right now, I'm focused on:
+<ul>
+  <li>🔧 Developing ETL pipelines using <strong>Python</strong> and <strong>Pandas</strong></li>
+  <li>🗄️ Querying and managing relational databases with <strong>SQL</strong> and <strong>MySQL/PostgreSQL</strong></li>
+  <li>☁️ Exploring cloud tools like <strong>Google BigQuery</strong> and <strong>AWS S3</strong></li>
+  <li>📊 Learning orchestration with <strong>Apache Airflow</strong> and handling batch data</li>
+</ul>
 </p>
 
-<p>
-I'm always open to feedback, collaboration, or just connecting with others in the data field!
+<p align="left">
+This GitHub repository is part of my active learning process — where I document mini projects, experiments, and exercises that help me grow as a future Data Engineer. I believe in learning by doing and constantly improving through iteration and feedback.
 </p>
 
+<p align="left">
+💬 <strong>Let’s connect!</strong> I’m always open to conversations around data, backend systems, and anything tech. Feel free to explore my projects, suggest improvements, or just say hi!
+</p>
 
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
+<p align="left">
+✨ <strong>Fun fact:</strong> I write better code after 10 PM, powered by coffee and by myself ☕💡
+</p>
